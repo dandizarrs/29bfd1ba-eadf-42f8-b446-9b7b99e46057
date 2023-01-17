@@ -1,0 +1,2 @@
+1673272898.474903s 1 https://dandiarchive.s3.amazonaws.com/zarr/29bfd1ba-eadf-42f8-b446-9b7b99e46057/0/0/0/4/2/79?versionId=k6V_Ih65316hFJK3ORx_XV0by8YFrN5j
+1673272898.651624s 1 https://api.dandiarchive.org/api/zarr/29bfd1ba-eadf-42f8-b446-9b7b99e46057/files?prefix=0%2F0%2F0%2F4%2F2%2F79&download=true
